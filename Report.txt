@@ -1,4 +1,4 @@
-(No. of Vertices	|No. of Edges|Runtime(in ms))
+(No. of Vertices|No. of Edges|Runtime(in ms))
 (6|10|1)	
 (100|1050|5)
 (1000|5506|14)
